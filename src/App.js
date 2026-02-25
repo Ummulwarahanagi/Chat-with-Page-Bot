@@ -11,7 +11,7 @@ function App() {
 
       {/* Page Header */}
       <header className="page-header">
-        <h1>🌱 Sustainable Farming Insights</h1>
+        <h1>Sustainable Farming Insights</h1>
         <p>Understanding agriculture, climate impact, and future food security</p>
       </header>
 
