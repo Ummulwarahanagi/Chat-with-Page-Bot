@@ -1,4 +1,4 @@
-const API_KEY = process.env.REACT_APP_OPENROUTER_API_KEY;
+const API_KEY = YOUR_API_KEY_HERE;
 
 export async function askAI(context, question) {
   try {
